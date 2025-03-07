@@ -6,7 +6,6 @@ I have a keen eye for identifying patterns, analyzing trends, and leveraging bus
 
 This repository serves as a collection of my projects, skills, and continuous learning in Data Analytics and Business Intelligence. I'm always exploring new technologies and refining my analytical techniques to stay ahead in the data-driven world.
 
-
 ## Table of Contents
 - [About](#about)
 - [Education](#education)
@@ -25,7 +24,6 @@ This repository serves as a collection of my projects, skills, and continuous le
   
 ## Portfolio Projects
 
-
 ## Certificates
 
 Skills are best demonstrated through real-world projects, but certifications serve as valuable proof of expertise and continuous learning. Here are the certifications I have earned: 
@@ -34,7 +32,6 @@ Skills are best demonstrated through real-world projects, but certifications ser
 - [Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/records/P247BXSGFKQ4) (Coursera - IBM)
 - [SQL Essential Training](https://www.linkedin.com/learning/certificates/5f32eaf43350c59acecf00ff2d73d8bcf341355067199b23b12e969e0466688a?trk=share_certificate) (LinkedIn)
 - [Analyzing and Visualizing Data with Microsoft Power BI](https://drive.google.com/file/d/1HNiVXgHzeujBT6slPGUsENhVNqaATfBy/view?usp=sharing) (Excelerate - Virtual Internship)
-
 
 
 ## Contact

@@ -9,14 +9,19 @@ This repository serves as a collection of my projects, skills, and continuous le
 
 ## Table of Contents
 - [About](#about)
+- [Education](#education)
 - [Portfolio Projects](#portfolio-projects)
     - [Excel]
     - [SQL]
     - [Power BI]
-- [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
 
+## Education
+
+- Master of Science in Information Systems - Saint Louis University (Jan 2023 - Dec 2024)
+    
+- Bachelor of Technology in Computer Science - NNRG (June 2017 - July 2021)
   
 ## Portfolio Projects
 
@@ -30,12 +35,6 @@ Skills are best demonstrated through real-world projects, but certifications ser
 - [SQL Essential Training](https://www.linkedin.com/learning/certificates/5f32eaf43350c59acecf00ff2d73d8bcf341355067199b23b12e969e0466688a?trk=share_certificate) (LinkedIn)
 - [Analyzing and Visualizing Data with Microsoft Power BI](https://drive.google.com/file/d/1HNiVXgHzeujBT6slPGUsENhVNqaATfBy/view?usp=sharing) (Excelerate - Virtual Internship)
 
-
-## Education
-
-- Master of Science in Information Systems - Saint Louis University (Jan 2023 - Dec 2024)
-    
-- Bachelor of Technology in Computer Science - NNRG (June 2017 - July 2021)
 
 
 ## Contact

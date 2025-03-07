@@ -12,10 +12,9 @@ This repository serves as a collection of my projects, skills, and continuous le
     - [Excel]
     - [SQL]
     - [Power BI]
-      
-## Education
-## [Certificates](https://github.com/AishwaryaBaluri/Data-Analysis-Portfolio/edit/main/README.md#certificates-1)
-## Contact
+- Education
+- [Certificates](https://github.com/AishwaryaBaluri/Data-Analysis-Portfolio/edit/main/README.md#certificates-1)
+- Contact
       
 ## Certificates
 Skills are best demonstrated through real-world projects, but certifications serve as valuable proof of expertise and continuous learning. Here are the certifications I have earned: 

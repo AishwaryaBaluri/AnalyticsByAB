@@ -6,6 +6,7 @@ I have a keen eye for identifying patterns, analyzing trends, and leveraging bus
 
 This repository serves as a collection of my projects, skills, and continuous learning in Data Analytics and Business Intelligence. I'm always exploring new technologies and refining my analytical techniques to stay ahead in the data-driven world.
 
+
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
@@ -16,8 +17,12 @@ This repository serves as a collection of my projects, skills, and continuous le
 - [Certificates](#certificates)
 - [Contact](#contact)
 
+  
 ## Portfolio Projects
+
+
 ## Certificates
+
 Skills are best demonstrated through real-world projects, but certifications serve as valuable proof of expertise and continuous learning. Here are the certifications I have earned: 
 - [PwC Switzerland - Power BI Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_5nadnrhqhs52PnTgC_1741239808449_completion_certificate.pdf) (Forage)
 - [Accenture North America - Data Analytics and Visualization Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_5nadnrhqhs52PnTgC_1740512088303_completion_certificate.pdf) (Forage)
@@ -27,4 +32,13 @@ Skills are best demonstrated through real-world projects, but certifications ser
 
 
 ## Education
+
+- Master of Science in Information Systems - Saint Louis University (Jan 2023 - Dec 2024)
+    
+- Bachelor of Technology in Computer Science - NNRG (June 2017 - July 2021)
+
+
 ## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/aishwaryabaluri1410/)
+- Email: aishwaryabaluri493@gmail.com 

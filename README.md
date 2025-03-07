@@ -37,4 +37,4 @@ Skills are best demonstrated through real-world projects, but certifications ser
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/aishwaryabaluri1410/)
-- Email: aishwaryabaluri493@gmail.com 
+- ✉️: aishwaryabaluri493@gmail.com 

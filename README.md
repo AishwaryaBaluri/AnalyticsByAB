@@ -13,7 +13,7 @@ This repository serves as a collection of my projects, skills, and continuous le
     - [SQL]
     - [Power BI]
 - Education
-- [Certificates](https://github.com/AishwaryaBaluri/Data-Analysis-Portfolio/edit/main/README.md#certificates-1)
+- [Certificates](https://github.com/AishwaryaBaluri/Data-Analysis-Portfolio/edit/main/README.md#certificates)
 - Contact
       
 ## Certificates

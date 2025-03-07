@@ -8,14 +8,15 @@ This repository serves as a collection of my projects, skills, and continuous le
 
 ## Table of Contents
 - [About](#about)
-- [Portfolio Projects]
+- [Portfolio Projects](#portfolio-projects)
     - [Excel]
     - [SQL]
     - [Power BI]
-- Education
-- [Certificates](https://github.com/AishwaryaBaluri/Data-Analysis-Portfolio/edit/main/README.md#certificates)
-- Contact
-      
+- [Education](#education)
+- [Certificates](#certificates)
+- [Contact](#contact)
+
+## Portfolio Projects
 ## Certificates
 Skills are best demonstrated through real-world projects, but certifications serve as valuable proof of expertise and continuous learning. Here are the certifications I have earned: 
 - [PwC Switzerland - Power BI Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_5nadnrhqhs52PnTgC_1741239808449_completion_certificate.pdf) (Forage)

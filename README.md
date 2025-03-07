@@ -7,7 +7,7 @@ I have a keen eye for identifying patterns, analyzing trends, and leveraging bus
 This repository serves as a collection of my projects, skills, and continuous learning in Data Analytics and Business Intelligence. I'm always exploring new technologies and refining my analytical techniques to stay ahead in the data-driven world.
 
 ## Table of Contents
-- [About](https://github.com/AishwaryaBaluri/Data-Analysis-Portfolio/edit/main/README.md#about)
+- [About](#about)
 - [Portfolio Projects]
     - [Excel]
     - [SQL]

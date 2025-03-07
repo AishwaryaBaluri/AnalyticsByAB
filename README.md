@@ -13,6 +13,18 @@ This repository serves as a collection of my projects, skills, and continuous le
     - [SQL]
     - [Power BI]
       
-- Certificates
-- Education
-- Contact
+## Education
+## [Certificates](https://github.com/AishwaryaBaluri/Data-Analysis-Portfolio/edit/main/README.md#certificates-1)
+## Contact
+      
+## Certificates
+Skills are best demonstrated through real-world projects, but certifications serve as valuable proof of expertise and continuous learning. Here are the certifications I have earned: 
+- [PwC Switzerland - Power BI Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_5nadnrhqhs52PnTgC_1741239808449_completion_certificate.pdf) (Forage)
+- [Accenture North America - Data Analytics and Visualization Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_5nadnrhqhs52PnTgC_1740512088303_completion_certificate.pdf) (Forage)
+- [Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/records/P247BXSGFKQ4) (Coursera - IBM)
+- [SQL Essential Training](https://www.linkedin.com/learning/certificates/5f32eaf43350c59acecf00ff2d73d8bcf341355067199b23b12e969e0466688a?trk=share_certificate) (LinkedIn)
+- [Analyzing and Visualizing Data with Microsoft Power BI](https://drive.google.com/file/d/1HNiVXgHzeujBT6slPGUsENhVNqaATfBy/view?usp=sharing) (Excelerate - Virtual Internship)
+
+
+## Education
+## Contact

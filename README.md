@@ -10,8 +10,6 @@ This repository serves as a collection of my projects, skills, and continuous le
 - [About](#about)
 - [Education](#education)
 - [Portfolio Projects](#portfolio-projects)
-    - [Excel]
-    - [SQL]
     - [Power BI]
 - [Certificates](#certificates)
 - [Contact](#contact)

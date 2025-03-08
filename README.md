@@ -11,6 +11,7 @@ This repository serves as a collection of my projects, skills, and continuous le
 - [Education](#education)
 - [Portfolio Projects](#portfolio-projects)
     - [Power BI]
+    - [Excel]
 - [Certificates](#certificates)
 - [Contact](#contact)
 
@@ -21,6 +22,13 @@ This repository serves as a collection of my projects, skills, and continuous le
 - Bachelor of Technology in Computer Science - NNRG (June 2017 - July 2021)
   
 ## Portfolio Projects
+In this section, I detail the use of various technologies to solve real-world business cases. Each project demonstrates my approach to harnessing data insights for strategic decision-making.
+
+### Analyzing Top 5 Categories for a Successful IPO
+**Goal:** To identify and analyze the top five categories with the largest popularity to aid in preparing for a successful Initial Public Offering (IPO).
+**Description:** I initiated the project by gaining a clear understanding of the business requirements, which facilitated the integration of three distinct datasets: reactions, reaction types, and content. After merging the data, I carried out comprehensive cleaning and preprocessing to ensure the datasets were accurate and suitable for analysis. I then conducted exploratory data analysis (EDA) to detect significant trends and relationships. This analysis led to the development of detailed visualizations using advanced Excel tools and Power Pivot, which helped illustrate the insights clearly. The project concluded with the implementation of storytelling techniques to effectively communicate the key findings, supporting the strategic decisions for a successful IPO.
+**Skills:** Data Understanding, Project Planning, Data Cleaning, Data Preprocessing, Data Modeling, Exploratory Data Analysis (EDA), Data Visualization, Storytelling
+**Technology:** Excel, Power Query, Power Pivot, Microsoft Word, PowerPoint, VLOOKUP(), SUMIF(), UNIQUE()
 
 ## Certificates
 

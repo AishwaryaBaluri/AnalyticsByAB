@@ -1,4 +1,5 @@
-# Aishwarya Baluri - Data Analyst Portfolio
+# Data Analyst Portfolio | Aishwarya B
+
 ## About
 Hi, I'm Aishwarya ! With a background in Information Systems, I specialize in Power BI, SQL, Python, and data visualization to transform complex data into meaningful insights. My expertise lies in dashboard development, data modeling, and database management, helping organizations make informed decisions and optimize operations.
 

@@ -10,8 +10,9 @@ This repository serves as a collection of my projects, skills, and continuous le
 - [About](#about)
 - [Education](#education)
 - [Portfolio Projects](#portfolio-projects)
-    - [Power BI]
-    - [Excel](#analyzing-top-5-categories-for-a-successful-ipo)
+    - Power BI
+    - Excel
+      - [Analyzing Top 5 Categories for a Successful IPO](#analyzing-top-5-categories-for-a-successful-ipo)
 - [Certificates](#certificates)
 - [Contact](#contact)
 

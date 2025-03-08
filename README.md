@@ -25,13 +25,15 @@ This repository serves as a collection of my projects, skills, and continuous le
 In this section, I detail the use of various technologies to solve real-world business cases. Each project demonstrates my approach to harnessing data insights for strategic decision-making.
 
 ### Analyzing Top 5 Categories for a Successful IPO
-**Goal:** To identify and analyze the top five categories with the largest popularity to aid in preparing for a successful IPO.
+- **Goal:** To identify and analyze the top five categories with the largest popularity to aid in preparing for a successful IPO.
 
-**Description:** I initiated the project by gaining a clear understanding of the business requirements, which facilitated the integration of three distinct datasets: reactions, reaction types, and content. After merging the data, I carried out comprehensive cleaning and preprocessing to ensure the datasets were accurate and suitable for analysis. I then conducted exploratory data analysis (EDA) to detect significant trends and relationships. This analysis led to the development of detailed visualizations using advanced Excel tools and Power Pivot, which helped illustrate the insights clearly. The project concluded with the implementation of storytelling techniques to effectively communicate the key findings, supporting the strategic decisions for a successful IPO.
+- **Description:** I initiated the project by gaining a clear understanding of the business requirements, which facilitated the integration of three distinct datasets: Reactions, ReactionType, and Content. After merging the data, I carried out comprehensive cleaning and preprocessing to ensure the datasets were accurate and suitable for analysis. I then conducted exploratory data analysis (EDA) to detect significant trends and relationships. This analysis led to the development of detailed visualizations using advanced Excel tools and Power Pivot, which helped illustrate the insights clearly. The project concluded with the implementation of storytelling techniques to effectively communicate the key findings, supporting the strategic decisions for a successful IPO.
 
-**Skills:** Project Planning, Data Understanding, Data Cleaning, Data Preprocessing, Data Modeling, Exploratory Data Analysis (EDA), Data Visualization, 
+- **Skills:** Project Planning, Data Understanding, Data Cleaning, Data Preprocessing, Data Modeling, Exploratory Data Analysis (EDA), Data Visualization, 
 
-**Technology:** Excel, Power Query, Power Pivot, Microsoft Word, PowerPoint, VLOOKUP(), SUMIF(), UNIQUE()
+- **Technology:** Excel, Power Query, Power Pivot, Microsoft Word, PowerPoint, VLOOKUP(), SUMIF(), UNIQUE()
+
+- **Results:** Advanced Excel analysis showed that Studying, Healthy Eating, and Technology are the top trending content categories. Additionally, GIFs and Photos are the most engaging types of content, with 84% of reactions being positive.
 
 ## Certificates
 

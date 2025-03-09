@@ -28,7 +28,6 @@ In this section, I detail the use of various technologies to solve real-world bu
 
 ### Analyzing Top 5 Categories for a Successful IPO
 - **Goal:** To identify and analyze the top five categories with the largest popularity to aid in preparing for a successful IPO.
-- **Explore the Complete Project**: [Top Categories Contributing to the Success of an IPO](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Analyzing%20Top%205%20Categories%20for%20IPO%20Success.README.md#top-categories-contributing-to-the-success-of-an-ipo)
 
 - **Description:** I initiated the project by gaining a clear understanding of the business requirements, which facilitated the integration of three distinct datasets: Reactions, ReactionType, and Content. After merging the data, I carried out comprehensive cleaning and preprocessing to ensure the datasets were accurate and suitable for analysis. I then conducted exploratory data analysis (EDA) to detect significant trends and relationships. This analysis led to the development of detailed visualizations using advanced Excel tools and Power Pivot, which helped illustrate the insights clearly. The project concluded with the implementation of storytelling techniques to effectively communicate the key findings, supporting the strategic decisions for a successful IPO.
 
@@ -37,6 +36,8 @@ In this section, I detail the use of various technologies to solve real-world bu
 - **Technology:** Excel, Power Query, Power Pivot, Microsoft Word, PowerPoint, VLOOKUP(), SUMIF(), UNIQUE()
 
 - **Results:** Advanced Excel analysis showed that Studying, Healthy Eating, and Technology are the top trending content categories. Additionally, GIFs and Photos are the most engaging types of content, with 84% of reactions being positive.
+
+- **Explore the Complete Project**: [Top Categories Contributing to the Success of an IPO](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Analyzing%20Top%205%20Categories%20for%20IPO%20Success.README.md#top-categories-contributing-to-the-success-of-an-ipo)
 
 ## Certificates
 

@@ -36,7 +36,7 @@ In this section, I detail the use of various technologies to solve real-world bu
 
 - **Results:** Advanced Excel analysis showed that Studying, Healthy Eating, and Technology are the top trending content categories. Additionally, GIFs and Photos are the most engaging types of content, with 84% of reactions being positive.
 
-- [Steps Involved](#top-categories-contributing-to-the-success-of-an-IPO)
+- [Steps Involved](#Top-Categories-Contributing-to-the-Success-of-an-IPO)
 
 ## Certificates
 

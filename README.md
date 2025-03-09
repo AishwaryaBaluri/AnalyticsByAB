@@ -33,7 +33,7 @@ In this section, I detail the use of various technologies to solve real-world bu
 
 - **Skills:** Project Planning, Data Understanding, Data Cleaning, Data Preprocessing, Data Modeling, Exploratory Data Analysis (EDA), Data Visualization
 
-- **Technology:** Excel, Power Query, Power Pivot, Microsoft Word, PowerPoint, VLOOKUP(), SUMIF(), UNIQUE()
+- **Technology:** Advanced Excel Functions, Power Pivot, Excel Charts
 
 - **Results:** Advanced Excel analysis showed that Studying, Healthy Eating, and Technology are the top trending content categories. Additionally, GIFs and Photos are the most engaging types of content, with 84% of reactions being positive.
 

@@ -12,6 +12,7 @@ This repository serves as a collection of my projects, skills, and continuous le
 - [Education](#education)
 - [Portfolio Projects](#portfolio-projects)
     - Power BI
+      - [Call Center Trends Analysis Dashboard](#call-center-trends-analysis-dashboard)
     - Excel
       - [Analyzing Top 5 Categories for a Successful IPO](#analyzing-top-5-categories-for-a-successful-ipo)
 - [Certificates](#certificates)
@@ -25,6 +26,18 @@ This repository serves as a collection of my projects, skills, and continuous le
   
 ## Portfolio Projects
 In this section, I detail the use of various technologies to solve real-world business cases. Each project demonstrates my approach to harnessing data insights for strategic decision-making.
+
+
+### Call Center Trends Analysis Dashboard
+- **Goal:** To Create a dynamic Power BI dashboard to track call center trends, focusing on long-term customer and agent behavior trends. The dashboard aims to provide transparency and actionable insights for strategic decision-making.
+  
+- **Description:** This Project involve development of a comprehensive Power BI dashboard designed to visualize crucial metrics and performance indicators of a call center's operations. The dashboard effectively showcases data on customer satisfaction, calls answered, call resolution efficiency, and agent performance metrics. It includes DAX Measures, KPI's, and dynamic Slicers to allow users to interactively filter data according to specific requirements enhancing the dashboard's usability and responsiveness.
+  
+- **Skills:** Calculating Measures (DAX), Defining KPIs, Power BI Dashboard Development, Effective Data Visualization, Generating Insights and Actions, Interactive Reporting, Performance Optimization, User Experience Design
+  
+- **Technology:** Power BI, DAX, Power Query, Excel
+  
+- **Results:** Analysis revealed that out of *5,000 total calls*, *4,054 were answered*, and *946 were unanswered*. Of the answered calls, *3,646 were resolved*, highlighting areas for potential improvement in call resolution and response efficiency. The average response time was 67.52 seconds. The dashboard also provided insights into customer satisfaction by topic and agent performance, identifying key areas for improvement. Dynamic filtering features enhanced the utility of the dashboard, facilitating targeted analysis and aiding in strategic decision-making.
 
 ### Analyzing Top 5 Categories for a Successful IPO
 - **Goal:** To identify and analyze the top five categories with the largest popularity to aid in preparing for a successful IPO.

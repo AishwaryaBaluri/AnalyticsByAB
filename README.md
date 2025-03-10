@@ -1,3 +1,5 @@
+`#ffffff`
+
 # Data Analyst Portfolio - Aishwarya B
 
 ## About
@@ -51,7 +53,7 @@ In this section, I detail the use of various technologies to solve real-world bu
 
 **Results:** Advanced Excel analysis showed that Studying, Healthy Eating, and Technology are the top trending content categories. Additionally, GIFs and Photos are the most engaging types of content, with 84% of reactions being positive.
 
- *Explore the Complete Project here* [Top Categories Contributing to the Success of an IPO](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Analyzing%20Top%205%20Categories%20for%20IPO%20Success.README.md#top-categories-contributing-to-the-success-of-an-ipo)
+>*Explore the Complete Project here* [Top Categories Contributing to the Success of an IPO](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Analyzing%20Top%205%20Categories%20for%20IPO%20Success.README.md#top-categories-contributing-to-the-success-of-an-ipo)
 
 ## Certificates
 

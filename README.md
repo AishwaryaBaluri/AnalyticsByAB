@@ -1,5 +1,3 @@
-`#ffffff`
-
 # Data Analyst Portfolio - Aishwarya B
 
 ## About

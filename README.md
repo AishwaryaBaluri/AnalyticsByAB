@@ -1,6 +1,6 @@
 # Welcome! 🙋🏻‍♀️ Dive into My Data Analytics Journey.
 
-Hello! I'm Aishwarya, a passionate **Data Analyst👩🏻‍💻** who loves uncovering insights hidden within data. I believe every dataset has a story to tell, and my job is to bring that story to life through analysis and visualization. With expertise in Power BI, SQL, Python, and data modeling, I transform raw data into meaningful insights that drive smarter decisions.
+Hello! I'm Aishwarya, a passionate **Data Analyst 👩🏻‍💻** who loves uncovering insights hidden within data. I believe every dataset has a story to tell, and my job is to bring that story to life through analysis and visualization. With expertise in Power BI, SQL, Python, and data modeling, I transform raw data into meaningful insights that drive smarter decisions.
 
 I specialize in building intuitive dashboards, structuring databases, and leveraging business intelligence tools to identify trends and optimize operations. This repository is a reflection of my continuous learning and hands-on experience in Data Analytics and Business Intelligence, where I document my projects, skills, and evolving expertise in the field. 
 

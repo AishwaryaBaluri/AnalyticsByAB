@@ -39,6 +39,7 @@ In this section, I detail the use of various technologies to solve real-world bu
 **Technology:** Power BI, DAX, Power Query, Excel
   
 **Results:** Analysis revealed that out of *5,000 total calls*, *4,054 were answered*, and *946 were unanswered*. Of the answered calls, *3,646 were resolved*, highlighting areas for potential improvement in call resolution and response efficiency. The average response time was 67.52 seconds. The dashboard also provided insights into customer satisfaction by topic and agent performance, identifying key areas for improvement. Dynamic filtering features enhanced the utility of the dashboard, facilitating targeted analysis and aiding in strategic decision-making.
+>*Explore the Complete Project here* [Call Center Trends Analysis Dashboard](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Call%20Center%20Trends%20Analysis%20Dashboard.README.md#call-center-trends-analysis-dashboard)
 
 ### <ins>Analyzing Top 5 Categories for a Successful IPO</ins>
 **Goal:** To identify and analyze the top five categories with the largest popularity to aid in preparing for a successful IPO.

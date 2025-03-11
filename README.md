@@ -35,7 +35,7 @@ In this section, I detail the use of various technologies to solve real-world bu
 
 >*Explore the Complete Project here* [Call Center Trends Analysis Dashboard](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Call%20Center%20Trends%20Analysis%20Dashboard.README.md#call-center-trends-analysis-dashboard)
 
-### <ins>[Top Categories Contributing to the Success of an IPO](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Analyzing%20Top%205%20Categories%20for%20IPO%20Success.README.md#top-categories-contributing-to-the-success-of-an-ipo)</ins>
+### <ins>Analyzing Top 5 Categories for a Successful IPO</ins>
 **Goal:** To identify and analyze the top five categories with the largest popularity to aid in preparing for a successful IPO.
 
 **Skills:** Project Planning, Data Understanding, Data Cleaning, Data Preprocessing, Data Modeling, Exploratory Data Analysis (EDA), Data Visualization

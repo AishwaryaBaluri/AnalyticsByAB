@@ -7,7 +7,7 @@ I specialize in building intuitive dashboards, structuring databases, and levera
 
 ## 📚 Table of Contents
 - [Education](#education)
-- [Portfolio Projects](#portfolio-projects)
+- [Projects](#projects)
     - Power BI
       - [Call Center Trends Analysis Dashboard](#call-center-trends-analysis-dashboard)
     - Excel
@@ -21,7 +21,7 @@ I specialize in building intuitive dashboards, structuring databases, and levera
     
 - Bachelor of Technology in Computer Science - NNRG (June 2017 - July 2021)
   
-## Portfolio Projects
+## Projects
 In this section, I detail the use of various technologies to solve real-world business cases. Each project demonstrates my approach to harnessing data insights for strategic decision-making.
 
 

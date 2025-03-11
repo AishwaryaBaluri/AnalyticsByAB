@@ -25,7 +25,7 @@ I specialize in building intuitive dashboards, structuring databases, and levera
 In this section, I detail the use of various technologies to solve real-world business cases. Each project demonstrates my approach to harnessing data insights for strategic decision-making.
 
 
-### 📞<ins>Call Center Trends Analysis Dashboard</ins>
+### <ins>Call Center Trends Analysis Dashboard</ins>
 
 **Goal:** To Create a dynamic Power BI dashboard to track call center trends, focusing on long-term customer and agent behavior trends. The dashboard aims to provide transparency and actionable insights for strategic decision-making.
   
@@ -35,7 +35,7 @@ In this section, I detail the use of various technologies to solve real-world bu
 
 >*Explore the Complete Project here* [Call Center Trends Analysis Dashboard](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Call%20Center%20Trends%20Analysis%20Dashboard.README.md#call-center-trends-analysis-dashboard)
 
-### <ins>Analyzing Top 5 Categories for a Successful IPO</ins>
+### <ins>[Top Categories Contributing to the Success of an IPO](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Analyzing%20Top%205%20Categories%20for%20IPO%20Success.README.md#top-categories-contributing-to-the-success-of-an-ipo)</ins>
 **Goal:** To identify and analyze the top five categories with the largest popularity to aid in preparing for a successful IPO.
 
 **Skills:** Project Planning, Data Understanding, Data Cleaning, Data Preprocessing, Data Modeling, Exploratory Data Analysis (EDA), Data Visualization

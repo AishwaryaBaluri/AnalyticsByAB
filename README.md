@@ -14,14 +14,14 @@ I specialize in building intuitive dashboards, structuring databases, and levera
       - [Analyzing Top 5 Categories for a Successful IPO](#analyzing-top-5-categories-for-a-successful-ipo)
 - [Certificates](#certificates)
 - [Contact](#contact)
-
-## Education
-
+  
+## Education👩🏻‍🎓
 - Master of Science in Information Systems - Saint Louis University (Jan 2023 - Dec 2024)
     
 - Bachelor of Technology in Computer Science - NNRG (June 2017 - July 2021)
   
-## Projects
+## Projects📖
+ 
 In this section, I detail the use of various technologies to solve real-world business cases. Each project demonstrates my approach to harnessing data insights for strategic decision-making.
 
 
@@ -44,7 +44,7 @@ In this section, I detail the use of various technologies to solve real-world bu
 
 >*Explore the Complete Project here* [Top Categories Contributing to the Success of an IPO](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Analyzing%20Top%205%20Categories%20for%20IPO%20Success.README.md#top-categories-contributing-to-the-success-of-an-ipo)
 
-## Certificates
+## Certificates🏅
 
 Skills are best demonstrated through real-world projects, but certifications serve as valuable proof of expertise and continuous learning. Here are the certifications I have earned: 
 - [PwC Switzerland - Power BI Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_5nadnrhqhs52PnTgC_1741239808449_completion_certificate.pdf) (Forage)

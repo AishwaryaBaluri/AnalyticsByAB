@@ -1,10 +1,8 @@
-# Welcome! 🙋🏻‍♀️ Discover My Portfolio!
+# Welcome! 🙋🏻‍♀️ Dive into My Data Analytics Journey.
 
-I'm an Information Systems Professional with a background in Data Analytics 👩🏻‍💻. I specialize in Power BI, SQL, Python, and data visualization to transform complex data into meaningful insights. My expertise lies in dashboard development, data modeling, and database management, helping to make informed decisions and optimize operations.
+Hello! I'm Aishwarya, a passionate data analyst who loves uncovering insights hidden within data 👩🏻‍💻. I believe every dataset has a story to tell, and my job is to bring that story to life through analysis and visualization. With expertise in Power BI, SQL, Python, and data modeling, I transform raw data into meaningful insights that drive smarter decisions.
 
-I have a keen eye for identifying patterns, analyzing trends, and leveraging business intelligence tools to drive data-driven strategies. Combining technical proficiency with analytical thinking, I enjoy solving complex problems and uncovering insights that enhance efficiency and innovation.
-
-This repository serves as a collection of my projects, skills, and continuous learning in Data Analytics and Business Intelligence. I'm always exploring new technologies and refining my analytical techniques to stay ahead in the data-driven world. 
+I specialize in building intuitive dashboards, structuring databases, and leveraging business intelligence tools to identify trends and optimize operations. This repository is a reflection of my continuous learning and hands-on experience in Data Analytics and Business Intelligence, where I document my projects, skills, and evolving expertise in the field. 
 
 
 ## 📚 Table of Contents

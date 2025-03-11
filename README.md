@@ -1,21 +1,13 @@
-Hi, 👋  Welcome to AB's Portfolio
-========================================================================================================================================
+# Welcome! 🙋🏻‍♀️ Discover My Portfolio!
 
-<span style="color:blue"> *Data Analyst* </span>
-
-
-
------------
-
-I'm an Information Systems Professional with a background in Data Analytics. I specialize in Power BI, SQL, Python, and data visualization to transform complex data into meaningful insights. My expertise lies in dashboard development, data modeling, and database management, helping to make informed decisions and optimize operations.
+I'm an Information Systems Professional with a background in Data Analytics 👩🏻‍💻. I specialize in Power BI, SQL, Python, and data visualization to transform complex data into meaningful insights. My expertise lies in dashboard development, data modeling, and database management, helping to make informed decisions and optimize operations.
 
 I have a keen eye for identifying patterns, analyzing trends, and leveraging business intelligence tools to drive data-driven strategies. Combining technical proficiency with analytical thinking, I enjoy solving complex problems and uncovering insights that enhance efficiency and innovation.
 
-This repository serves as a collection of my projects, skills, and continuous learning in Data Analytics and Business Intelligence. I'm always exploring new technologies and refining my analytical techniques to stay ahead in the data-driven world.
+This repository serves as a collection of my projects, skills, and continuous learning in Data Analytics and Business Intelligence. I'm always exploring new technologies and refining my analytical techniques to stay ahead in the data-driven world. 
 
-* 🌍  I'm based in United States
 
-## Table of Contents
+## 📚 Table of Contents
 - [Education](#education)
 - [Portfolio Projects](#portfolio-projects)
     - Power BI
@@ -74,4 +66,6 @@ Skills are best demonstrated through real-world projects, but certifications ser
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/aishwaryabaluri1410/)
-- Email : aishwaryabaluri493@gmail.com 
+- Email : aishwaryabaluri493@gmail.com
+  
+🌍  I'm based in United States

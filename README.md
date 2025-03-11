@@ -9,7 +9,7 @@ I specialize in building intuitive dashboards, structuring databases, and levera
 - [Education](#education)
 - [Projects](#projects)
     - Power BI
-      - [Call Center Trends Analysis Dashboard](📞#call-center-trends-analysis-dashboard)
+      - [Call Center Trends Analysis Dashboard](#call-center-trends-analysis-dashboard)
     - Excel
       - [Analyzing Top 5 Categories for a Successful IPO](#analyzing-top-5-categories-for-a-successful-ipo)
 - [Certificates](#certificates)
@@ -25,7 +25,7 @@ I specialize in building intuitive dashboards, structuring databases, and levera
 In this section, I detail the use of various technologies to solve real-world business cases. Each project demonstrates my approach to harnessing data insights for strategic decision-making.
 
 
-### 📞 <ins>Call Center Trends Analysis Dashboard</ins>
+### 📞<ins>Call Center Trends Analysis Dashboard</ins>
 
 **Goal:** To Create a dynamic Power BI dashboard to track call center trends, focusing on long-term customer and agent behavior trends. The dashboard aims to provide transparency and actionable insights for strategic decision-making.
   

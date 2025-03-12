@@ -56,7 +56,7 @@ In this section, I detail the use of various technologies to solve real-world bu
 - Interactive Reporting
 -  User Experience Design
 
->*Explore the Complete Project here* [Call Center Trends Analysis Dashboard](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Customer%20Retention%20Analysis%20Dashboard.README.md#customer-retention-analysis-dashboard)
+>*Explore the Complete Project here* [Customer Retention Analysis Dashboard](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Customer%20Retention%20Analysis%20Dashboard.README.md#customer-retention-analysis-dashboard)
 
 ### <ins>Analyzing Top 5 Categories for a Successful IPO</ins>
 **Goal:** To identify and analyze the top five categories with the largest popularity to aid in preparing for a successful IPO.

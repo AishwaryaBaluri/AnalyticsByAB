@@ -10,6 +10,7 @@ I specialize in building intuitive dashboards, structuring databases, and levera
 - [Projects](#projects)
     - Power BI
       - [Call Center Trends Analysis Dashboard](#call-center-trends-analysis-dashboard)
+      - [Customer Retention Analysis Dashboard](#customer-retention-analysis-dashboard)
     - Excel
       - [Analyzing Top 5 Categories for a Successful IPO](#analyzing-top-5-categories-for-a-successful-ipo)
 - [Certificates](#certificates)
@@ -41,6 +42,21 @@ In this section, I detail the use of various technologies to solve real-world bu
   
 
 >*Explore the Complete Project here* [Call Center Trends Analysis Dashboard](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Call%20Center%20Trends%20Analysis%20Dashboard.README.md#call-center-trends-analysis-dashboard)
+
+### <ins>Customer Retention Analysis Dashboard</ins>
+**Goal:** To create a dynamic Power BI dashboard that analyzes customer retention by highlighting churn risk factors, demographic trends, and service usage patterns to inform proactive retention strategies.
+**Technology:** Power BI, DAX, Power Query, Excel
+**Skills:** 
+
+- Customer Churn Analysis
+- DAX Measures
+- KPI Definition
+- Professional Dashboard Design
+- Data Visualization
+- Interactive Reporting
+-  User Experience Design
+
+>*Explore the Complete Project here* [Call Center Trends Analysis Dashboard](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Customer%20Retention%20Analysis%20Dashboard.README.md#customer-retention-analysis-dashboard)
 
 ### <ins>Analyzing Top 5 Categories for a Successful IPO</ins>
 **Goal:** To identify and analyze the top five categories with the largest popularity to aid in preparing for a successful IPO.

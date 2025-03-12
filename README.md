@@ -41,11 +41,13 @@ In this section, I detail the use of various technologies to solve real-world bu
 -  User Experience Design
   
 
->*Explore the Complete Project here* [Call Center Trends Analysis Dashboard](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Call%20Center%20Trends%20Analysis%20Dashboard.README.md#call-center-trends-analysis-dashboard)
+>*Explore the Complete Project here* *[Call Center Trends Analysis Dashboard](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Call%20Center%20Trends%20Analysis%20Dashboard.README.md#call-center-trends-analysis-dashboard)*
 
 ### <ins>Customer Retention Analysis Dashboard</ins>
 **Goal:** To create a dynamic Power BI dashboard that analyzes customer retention by highlighting churn risk factors, demographic trends, and service usage patterns to inform proactive retention strategies.
+
 **Technology:** Power BI, DAX, Power Query, Excel
+
 **Skills:** 
 
 - Customer Churn Analysis
@@ -56,7 +58,7 @@ In this section, I detail the use of various technologies to solve real-world bu
 - Interactive Reporting
 -  User Experience Design
 
->*Explore the Complete Project here* [Customer Retention Analysis Dashboard](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Customer%20Retention%20Analysis%20Dashboard.README.md#customer-retention-analysis-dashboard)
+>*Explore the Complete Project here* *[Customer Retention Analysis Dashboard](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Customer%20Retention%20Analysis%20Dashboard.README.md#customer-retention-analysis-dashboard)*
 
 ### <ins>Analyzing Top 5 Categories for a Successful IPO</ins>
 **Goal:** To identify and analyze the top five categories with the largest popularity to aid in preparing for a successful IPO.
@@ -74,7 +76,7 @@ In this section, I detail the use of various technologies to solve real-world bu
 
 
 
->*Explore the Complete Project here* [Top Categories Contributing to the Success of an IPO](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Analyzing%20Top%205%20Categories%20for%20IPO%20Success.README.md#top-categories-contributing-to-the-success-of-an-ipo)
+>*Explore the Complete Project here* *[Top Categories Contributing to the Success of an IPO](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Analyzing%20Top%205%20Categories%20for%20IPO%20Success.README.md#top-categories-contributing-to-the-success-of-an-ipo)*
 
 ## Certificates🏅
 

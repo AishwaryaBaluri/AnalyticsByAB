@@ -81,7 +81,7 @@ In this section, I detail the use of various technologies to solve real-world bu
 - Dashboard Design
 - Statistical Analysis
 
->*Explore the Complete Project here* **
+>*Explore the Complete Project here* *[Diversity and Inclusion Analytics Dashboard](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Diversity%20and%20Inclusion%20Analytics%20Dashboard.README.md)*
 
 
 ### <ins>Analyzing Top 5 Categories for a Successful IPO</ins>

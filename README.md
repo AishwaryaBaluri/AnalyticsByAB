@@ -12,6 +12,7 @@ I specialize in building intuitive dashboards, structuring databases, and levera
     - Power BI
       - [Call Center Trends Analysis Dashboard](#call-center-trends-analysis-dashboard)
       - [Customer Retention Analysis Dashboard](#customer-retention-analysis-dashboard)
+      - [Diversity and Inclusion Analytics Dashboard](#diversity-and-inclusion-analytics-dashboard)
     - Excel
       - [Analyzing Top 5 Categories for a Successful IPO](#analyzing-top-5-categories-for-a-successful-ipo)
 - [Contact](#contact)
@@ -67,6 +68,21 @@ In this section, I detail the use of various technologies to solve real-world bu
 -  User Experience Design
 
 >*Explore the Complete Project here* *[Customer Retention Analysis Dashboard](https://github.com/AishwaryaBaluri/Projects-Portfolio/blob/main/Customer%20Retention%20Analysis%20Dashboard.README.md#customer-retention-analysis-dashboard)*
+
+### <ins>Diversity and Inclusion Analytics Dashboard</ins>
+**Goal:** To create a comprehensive Power BI dashboard that analyzes Diversity and Inclusion within a telecom's workforce, focusing on gender balance, promotion rates, and hiring trends to support strategic decisions and promote a diverse company culture.
+
+**Technology:** Power BI, Advanced DAX
+
+**Skills:**
+- Data Visualization
+- Advanced DAX Calculations
+- KPI Development
+- Dashboard Design
+- Statistical Analysis
+
+>*Explore the Complete Project here* **
+
 
 ### <ins>Analyzing Top 5 Categories for a Successful IPO</ins>
 **Goal:** To identify and analyze the top five categories with the largest popularity to aid in preparing for a successful IPO.

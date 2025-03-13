@@ -1,4 +1,9 @@
-# Welcome! 🙋🏻‍♀️ Dive into My Data Analytics Journey.
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/38ea8687-bfad-474b-a054-0c841cc58845" width="100%" height="auto">
+</div>
+
+------------
+
 
 Hello! I'm Aishwarya, a passionate **Data Analyst 👩🏻‍💻** who loves uncovering insights hidden within data. I believe every dataset has a story to tell, and my job is to bring that story to life through analysis and visualization. With expertise in Power BI, SQL, Python, and data modeling, I transform raw data into meaningful insights that drive smarter decisions.
 
